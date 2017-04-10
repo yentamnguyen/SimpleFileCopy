@@ -1,1 +1,2 @@
-$ SimpleFileCopy \n A simple Java file copy tool
+# SimpleFileCopy
+A simple Java file copy tool
